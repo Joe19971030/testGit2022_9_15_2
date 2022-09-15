@@ -12,5 +12,7 @@ public class TestGit1 {
         System.out.println("hot-fix modify");
         System.out.println("push test");
         System.out.println("push test"+new Date().toString());
+        System.out.println("pull test");
+        
     }
 }
